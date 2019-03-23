@@ -1,0 +1,15 @@
+todo:
+- clean up main page
+- host and deploy
+- get contact form working
+- get assets from gabby & robert
+    - logo
+    - pictures from projects
+    - testimonials
+
+
+
+
+
+future ideas:
+- subs can bid for jobs
